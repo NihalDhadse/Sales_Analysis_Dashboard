@@ -1,2 +1,3 @@
 # Sales_Analysis_Dashboard
 Power BI dashboard for analyzing and visualizing sales data to track performance and Future trends.
+This Power BI dashboard provides an interactive analysis of sales data, offering insights into revenue trends, customer behavior, and product performance. It includes key performance indicators to support data-driven decision-making and optimize business strategies. With predictive analytics, the dashboard forecasts future sales trends, helping businesses stay ahead of market changes. Designed for efficiency, it enables users to track growth, identify opportunities, and improve overall sales performance.
